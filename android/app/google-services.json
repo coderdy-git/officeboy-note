@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "306264759438",
+    "project_id": "coderdy-absensi",
+    "storage_bucket": "coderdy-absensi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306264759438:android:e1b701557d0bbe6534bddf",
+        "android_client_info": {
+          "package_name": "com.officeboy.office_boy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306264759438-fss0cauohbnsnk8oaoadsp5kpuqf9req.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.officeboy.office_boy_app",
+            "certificate_hash": "d4d18395f6540a2ba19c46b9df03b39adea72884"
+          }
+        },
+        {
+          "client_id": "306264759438-8jueqffus1jsa375bqotejuckvn6svvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdQzzHPMpt0wtteQ6XpputAp3BkRhBhdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306264759438-8jueqffus1jsa375bqotejuckvn6svvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
