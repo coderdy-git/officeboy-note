@@ -63,6 +63,7 @@ dev_dependencies:
   # Code generation for Drift
   build_runner: ^2.4.0
   drift_dev: ^2.22.0
+  rename: ^3.1.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

@@ -7,6 +7,43 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:306264759438:android:94297df2fd63070e34bddf",
+        "android_client_info": {
+          "package_name": "com.coderdy.officeboy_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306264759438-p9necf1f39n6ofj3kor6vgpvn60t6bfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coderdy.officeboy_notes",
+            "certificate_hash": "88442d62e531465c2bef105e7c14e34ae6176f5d"
+          }
+        },
+        {
+          "client_id": "306264759438-8jueqffus1jsa375bqotejuckvn6svvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdQzzHPMpt0wtteQ6XpputAp3BkRhBhdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306264759438-8jueqffus1jsa375bqotejuckvn6svvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:306264759438:android:e1b701557d0bbe6534bddf",
         "android_client_info": {
           "package_name": "com.officeboy.office_boy_app"
